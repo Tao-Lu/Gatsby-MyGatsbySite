@@ -1,0 +1,10 @@
+.blogLink {
+  background-color: #f4eded;
+  padding: 1rem;
+  display: block;
+}
+
+.blogLink:hover {
+  background-color: grey;
+  
+}

@@ -1,0 +1,7 @@
+.navLink:hover {
+  color: white;
+}
+
+.activedNavLink {
+  color: white;
+}

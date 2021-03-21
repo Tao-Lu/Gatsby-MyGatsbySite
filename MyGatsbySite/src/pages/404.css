@@ -1,0 +1,9 @@
+.notFound {
+  font-size: 2rem;
+}
+
+.notFound:hover {
+  font-size: 3rem;
+  color: red;
+}
+
